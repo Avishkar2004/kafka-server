@@ -1,0 +1,3 @@
+For How to use kafka in a Node js:- https://kafka.js.org/
+
+https://gist.github.com/Avishkar2004/a373550da7773a022f5774b6bc8ed2a4
